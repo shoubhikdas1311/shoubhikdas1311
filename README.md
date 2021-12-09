@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoubhikdas1311
-- 👀 I’m interested in ... Coding, Electronics, firmware, designing
+- 👀 I’m interested in ... Coding, Electronics, firmware, designing and system security
 - 🌱 I’m currently learning ... Coding, Electronics, firmware, designing
-- 💞️ I’m looking to collaborate on ... firmware
+- 💞️ I’m looking to collaborate on ... firmware and system security
 - 📫 How to reach me ... email ID: shoubhikdas1311@gmail.com
 
 <!---
