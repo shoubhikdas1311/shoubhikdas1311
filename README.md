@@ -1,3 +1,4 @@
+![shoubhikdas1311's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoubhikdas1311&show_icons=true)
 - 👋 Hi, I’m @shoubhikdas1311
 - 👀 I’m interested in ... Coding, Electronics, firmware, designing and system security
 - 🌱 I’m currently learning ... Coding, Electronics, firmware, designing
